@@ -1,4 +1,1 @@
-
-
-
-
+mkdir ~/MyProject
